@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb801096-c2c5-467f-b58d-050dbb737200" name="Changes" comment="" />
+    <list default="true" id="eb801096-c2c5-467f-b58d-050dbb737200" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/AquariumFish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/Plecostomus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/Plecostomus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/Shark.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP3_Classe/out/production/TP3_Classe/example/myapp/Shark.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "S:/Kotlin/Function",
+    "last_opened_file_path": "S:/SEMESTRE 9/ATELIER_DEV_MOBILE/Dev_mobile/Function",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
