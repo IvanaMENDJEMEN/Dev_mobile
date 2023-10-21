@@ -1,5 +1,7 @@
 package example.myapp
 
+import example.myapp.decor.makeDecorations
+
 fun buildAquarium(){
     //PARTIES 1 à 4
     /*
@@ -33,5 +35,6 @@ fun makeFish(){
 }
 fun main(){
     //buildAquarium()
-    makeFish()
+    //makeFish()
+    makeDecorations()
 }
