@@ -9,6 +9,7 @@ interface FishAction {
     fun eat()
 }
 
+// Exemple d'une classe singleton c'est à dire ne peut qu'avoir une seule instance
 object GoldColor : FishColor {
     override val color = "gold"
 }
